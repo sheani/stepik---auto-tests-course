@@ -1,4 +1,3 @@
 -- stepik---auto-tests-course
-Homework
-https://stepik.org/lesson/187065/step/7?unit=161976
-
+Hi!
+This is homework https://stepik.org/course/575/syllabus
